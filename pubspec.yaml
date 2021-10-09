@@ -6,10 +6,8 @@ description: A simple command-line application.
 environment:
   sdk: '>=2.8.1 <3.0.0'
 
-#dependencies:
-#  path: ^1.7.0
+dependencies:
+  file:
 
 dev_dependencies:
-  mockito: 
   test:
-  file:
